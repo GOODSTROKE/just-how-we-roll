@@ -2,7 +2,7 @@
  * DATA *
  **********/
 
-// input Data
+// input Data 
 
  let sixes = [];
  let doubleSixes = [];
